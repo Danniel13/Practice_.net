@@ -1,0 +1,70 @@
+If a > b Then
+MsgBox "Juan Manuel Santos", 64, "EL GANADOR ES: "
+Label9 = "Juan Manuel Santos"
+Else
+
+If a > c Then
+MsgBox "Juan Manuel Santos", 64, "EL GANADOR ES: "
+Label9 = "Juan Manuel Santos"
+Else
+
+If a > d Then
+MsgBox "Juan Manuel Santos", 64, "EL GANADOR ES: "
+Label9 = "Juan Manuel Santos"
+Else
+If b > a Then
+MsgBox "Antanas Mockus", 64, "EL GANADOR ES: "
+Label9 = "Antanas Mockus"
+Else
+If b > c Then
+MsgBox "Antanas Mockus", 64, "EL GANADOR ES: "
+Label9 = "Antanas Mockus"
+Else
+If b > d Then
+MsgBox "Antanas Mockus", 64, "EL GANADOR ES: "
+Label9 = "Antanas Mockus"
+
+If Val(c) > Val(a) Then
+MsgBox "Gustavo Petro", 64, "EL GANADOR ES: "
+Label9 = "Gustavo Petro"
+Else
+If Val(c) > Val(b) Then
+MsgBox "Gustavo Petro", 64, "EL GANADOR ES: "
+Label9 = "Gustavo Petro"
+Else
+If Val(c) > Val(d) Then
+MsgBox "Gustavo Petro", 64, "EL GANADOR ES: "
+Label9 = "Gustavo Petro"
+Else
+If Val(d) > Val(a) Then
+MsgBox "Ninguno, elección anulada ", 64, "EL GANADOR ES: "
+Label9 = "Ninguno"
+Else
+If Val(d) > Val(b) Then
+MsgBox "Ninguno, elección anulada ", 64, "EL GANADOR ES: "
+Label9 = "Ninguno"
+Else
+If Val(d) > Val(c) Then
+MsgBox "Ninguno, elección anulada ", 64, "EL GANADOR ES: "
+Label9 = "Ninguno"
+
+
+End If
+End If
+End If
+
+
+End If
+End If
+End If
+
+
+
+End If
+End If
+End If
+
+
+End If
+End If
+End If
